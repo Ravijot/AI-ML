@@ -1,0 +1,16 @@
+how to handle missing data?
+What is Simpleimputer im sklearn?
+Feature Scaling
+normalization 
+standardization
+Encoding
+One hot encoding
+column transformer
+what is pipeline in sklearn?
+selectkbest features
+
+
+
+
+Chi square test
+Null hypothesis
