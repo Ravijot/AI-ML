@@ -12,6 +12,7 @@ what is cross validation?
 why we transform and put data in normal distribution?
 difference between column transformer and function transformer?
 scaling -> encoding -> transformer
+staretgy to handle missing value in data for machine learning pipeline
 
 
 Chi square test
