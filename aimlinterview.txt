@@ -9,8 +9,13 @@ column transformer
 what is pipeline in sklearn?
 selectkbest features
 what is cross validation?
-
+why we transform and put data in normal distribution?
+difference between column transformer and function transformer?
+scaling -> encoding -> transformer
 
 
 Chi square test
 Null hypothesis
+what is zscore?
+percentile
+quartile
