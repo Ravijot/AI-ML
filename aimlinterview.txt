@@ -13,6 +13,9 @@ why we transform and put data in normal distribution?
 difference between column transformer and function transformer?
 scaling -> encoding -> transformer
 staretgy to handle missing value in data for machine learning pipeline
+mean median imputer
+random imputer
+knn imputer
 
 
 Chi square test
@@ -20,3 +23,5 @@ Null hypothesis
 what is zscore?
 percentile
 quartile
+difference between variance covariance and correlation
+inter quartile range
