@@ -16,6 +16,10 @@ staretgy to handle missing value in data for machine learning pipeline
 mean median imputer
 random imputer
 knn imputer
+mcar
+mar
+mnar
+how to treat outlier
 
 
 Chi square test
