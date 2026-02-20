@@ -21,6 +21,7 @@ mar
 mnar
 how to treat outlier
 what is trimming and capping in outlier?
+linear regression metrics mse mabse rmse r2
 
 
 Chi square test
