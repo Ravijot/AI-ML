@@ -20,6 +20,7 @@ mcar
 mar
 mnar
 how to treat outlier
+what is trimming and capping in outlier?
 
 
 Chi square test
