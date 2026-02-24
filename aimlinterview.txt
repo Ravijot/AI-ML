@@ -22,7 +22,7 @@ mnar
 how to treat outlier
 what is trimming and capping in outlier?
 linear regression metrics mse mabse rmse r2
-
+polynomial regression why we need  that?
 
 Chi square test
 Null hypothesis
